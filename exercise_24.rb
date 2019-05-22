@@ -40,7 +40,7 @@ puts validate_username("hi")
 puts validate_username("ironman3000!!")
 puts validate_username("a")
 puts validate_username("123")
-puts validate_username("u53r")
+puts validate_username("u$3r")
 
 puts ""
 8.times { print "*" }
